@@ -1,0 +1,2 @@
+# Computational_intelligence_for_early_detection_of_infertility_in_women.ipynb
+Project on infertility detection in women using CNN models on 3,832 fetal head ultrasound images. Data were preprocessed, augmented, and analyzed with models (Simple CNN, Xception, and Inception with Attention). The Simple CNN model excelled in accuracy (F1=0.93). Open-source data supports further medical imaging research.
